@@ -1,0 +1,24 @@
+.one{
+    background-color:aquamarine;
+    border-style: dotted;
+    border-width:2px;
+}
+#head1{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#para1{
+    font-style: italic;
+    color: orange;
+}
+.two{
+    background-color: aqua;
+}
+#head2{
+    color: blueviolet;
+    font-style: bold;
+}
+#para2{
+    font-style: italic;
+    color: green;
+}
